@@ -1,7 +1,7 @@
-def bar:
+def bar():
     pass
 
 
-def foo:
+def foo():
     pass
 
